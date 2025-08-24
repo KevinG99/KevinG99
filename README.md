@@ -17,7 +17,6 @@ I'm passionate about simplifying complex systems and creating tailored software 
 ---
 
 ## 🛠️ **Current Projects**  
-- **[Versilite](https://versilite.com)**: A next-gen GDS for the travel industry.  
 - **Event Modeling Evangelism:** Helping teams streamline software design and reduce development bottlenecks.  
 - **AI-Driven Systems:** Exploring intelligent, automated event modeling for systems thinking.  
 
