@@ -2,7 +2,7 @@
 ### Innovator | Software Developer | Founder of Versilite  
 
 🚀 **About Me**  
-I'm passionate about simplifying complex systems and creating tailored software solutions that empower industries to thrive.
+I'm passionate about simplifying complex systems and creating tailored solutions that empower industries to thrive.
 
 ---
 
@@ -13,8 +13,8 @@ I'm passionate about simplifying complex systems and creating tailored software 
 ---
 
 ## 🛠️ **Current Projects**  
-- **Event Modeling Evangelism:** Helping teams streamline software design and reduce development bottlenecks.  
-- **AI-Driven Systems:** Exploring intelligent, automated event modeling for systems thinking.  
+- **Venture Building:** Investing, allocating time and capital to build specialised businesses. 
+- **AI-Driven Systems:** Exploring intelligent, automated systems thinking.  
 
 ---
 
